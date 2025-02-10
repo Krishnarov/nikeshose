@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+*{
+  margin: 0px;
+  padding: 0px;
+}
+:root{
+  --red:#d01c28;
+  --gray:#2e2e2e;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  max-width: 1280px;
+  margin: 0px auto;
+  height: 72px;
+  align-items: center;
+}
+nav ul{
+  display: flex;
+  list-style: none;
+  gap: 24px;
+  cursor: pointer;
+
+}
+nav ul li:hover{
+  color: var(--red);
+  transition: all 0.3s;
+}
+button{
+  all: unset;
+  padding: 0px 16px;
+  background-color: var(--red);
+  height: 32px;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+}
+button:hover{
+  background-color: white;
+  border: 1px solid var(--gray);
+  color: var(--red);
+  transition: all 0.3s;
+}
+.main{
+  max-width: 1125px;
+  height: 600px;
+  margin:auto;
+  margin-top: 80px;
+  display: flex;
+  align-items: center;
+  /* border: solid black; */
+}
+.contant{
+  width: 595px;
+  height: 600px;
+  /* border: solid black; */
+  
+}
+.img{
+  width: 520px;
+  height: 480px;
+  /* border: solid black; */
+  background-image: url("../public/images/shoe_image.png");
+  background-size: cover;
+  
+}
+.contant h1{
+  font-size: 100px;
+  line-height: 1;
+  text-align: left;
+  margin-bottom: 30px;
+}
+.contant p{
+  width: 377px;
+}
+.btn button{
+  margin: 30px 30px 0px 0px;
+}
+.btn :nth-last-child(1){
+  background-color:white;
+  color: var(--gray);
+  border: 1px solid var(--gray);
+}
+.btn :nth-last-child(1):hover{
+  color:white;
+  background-color: var(--red);
+  border: none;
+  transition: all 0.3s;
+}
+.btn :nth-last-child(2):hover{
+  background-color: white;
+  color: var(--red);
+  border: 1px solid var(--gray);
+  transition: all 0.3s;
+}
+.f-logo{
+  margin-top: 30px;
+}
+.f-logo p{
+  font-size: 10px;
+  color: var(--gray);
+
+}
+.f-logo img{
+
+  padding: 8px 16px 0px 0px;
+}

@@ -1,0 +1,296 @@
+[{
+    "Php":{
+        "Easy":[
+            {
+                "que":"question1",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question2",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question3",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            }
+        ],
+        "Normal":[
+            {
+                "que":"question1",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question2",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question3",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            }
+        ],
+        "Hard":[
+            {
+                "que":"question1",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question2",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question3",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            }
+        ]
+    },
+    "Python":{
+        "Easy":[
+            {
+                "que":"question1",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question2",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question3",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            }
+        ],
+        "Normal":[
+            {
+                "que":"question1",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question2",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question3",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            }
+        ],
+        "Hard":[
+            {
+                "que":"question1",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question2",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question3",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            }
+        ]
+    },
+    "Java":{
+        "Easy":[
+            {
+                "que":"question1",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question2",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question3",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            }
+        ],
+        "Normal":[
+            {
+                "que":"question1",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question2",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question3",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            }
+        ],
+        "Hard":[
+            {
+                "que":"question1",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question2",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            },
+            {
+                "que":"question3",
+                "ans":[
+                    {"test":"answeer 1","is":true},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false},
+                    {"test":"answeer 1","is":false}
+                ]
+                    
+            }
+        ]
+    }
+}]
