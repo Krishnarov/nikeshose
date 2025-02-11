@@ -1,15 +1,17 @@
 
 import './App.css';
+import Main from './componant/main';
+import Nav from './componant/nav';
+import Test from './componant/test';
 
-import NavBar from './componant/NavBar';
+
 function App() {
   return (
     <>
-    <NavBar/>
-      {/* <Nav />
+      {/* <NavBar/> */}
+      <Nav />
       <Main />
-     <Test /> */}
-
+      {/* <Test /> */}
     </>
   );
 }
