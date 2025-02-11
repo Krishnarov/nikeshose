@@ -1,0 +1,1192 @@
+[
+ {
+    "Php": [
+      {
+        "Easy": [
+          {
+            "1": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", 
+                    "correct": true }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "normal": [
+          {
+            "1": {
+              "question": "Who is the father of PHP?",
+              "answer": [
+                {
+                  "text": "Drek Kolkevi",
+                  "correct": false
+                },
+                {
+                  "text": "Rasmus Lerdorf",
+                  "correct": true
+                },
+                {
+                  "text": "Willam Makepiece",
+                  "correct": false
+                },
+                { "text": "List Barely", "correct": false }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "Hard": [
+          {
+            "1": {
+              "question": "What does PHP stand for?",
+              "answer": [
+                {
+                  "text": "PHP stands for Preprocessor Home Page",
+                  "correct": false
+                },
+                {
+                  "text": "PHP stands for Pretext Hypertext Processor",
+                  "correct": true
+                },
+                {
+                  "text": "PHP stands for Hypertext Preprocessor",
+                  "correct": false
+                },
+                { "text": "PHP stands for Personal Hyper Processor", "correct": false }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      }
+
+
+    ]
+  },
+  {
+    "Python": [
+      {
+        "Easy": [
+          {
+            "1": {
+              "question": "Who developed Python Programming Language?",
+              "answer": [
+                {
+                  "text": "Wick van Rossum",
+                  "correct": false
+                },
+                {
+                  "text": "Rasmus Lerdorf",
+                  "correct": true
+                },
+                {
+                  "text": "Guido van Rossum",
+                  "correct": false
+                },
+                { "text": "Niene Stom", "correct": false }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "normal": [
+          {
+            "1": {
+              "question": "Which type of Programming does Python support?",
+              "answer": [
+                {
+                  "text": "object-oriented programming",
+                  "correct": false
+                },
+                {
+                  "text": "structured programming",
+                  "correct": false
+                },
+                {
+                  "text": "functional programming",
+                  "correct": false
+                },
+                { "text": "all of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "Hard": [
+          {
+            "1": {
+              "question": "Is Python case sensitive when dealing with identifiers?",
+              "answer": [
+                {
+                  "text": "no",
+                  "correct": false
+                },
+                {
+                  "text": "yes",
+                  "correct": true
+                },
+                {
+                  "text": "machine dependent",
+                  "correct": false
+                },
+                { "text": "none of the mentioned", "correct": false}
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      }
+
+
+    ]
+  },
+  {
+    "Java": [
+      {
+        "Easy": [
+          {
+            "1": {
+              "question": "Who invented Java Programming?",
+              "answer": [
+                {
+                  "text": "Guido van Rossum",
+                  "correct": false
+                },
+                {
+                  "text": "James Gosling",
+                  "correct": true
+                },
+                {
+                  "text": "Dennis Ritchie",
+                  "correct": false
+                },
+                { "text": "Bjarne Stroustrup", "correct": false }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "normal": [
+          {
+            "1": {
+              "question": "Which statement is true about Java?",
+              "answer": [
+                {
+                  "text": "Java is a sequence-dependent programming language",
+                  "correct": false
+                },
+                {
+                  "text": "Java is a code dependent programming language",
+                  "correct": false
+                },
+                {
+                  "text": "Java is a platform-dependent programming language",
+                  "correct": false
+                },
+                { "text": "Java is a platform-independent programming language", "correct": true }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "Hard": [
+          {
+            "1": {
+              "question": "Which component is used to compile, debug and execute the java programs?",
+              "answer": [
+                {
+                  "text": " JRE",
+                  "correct": false
+                },
+                {
+                  "text": " JIT",
+                  "correct": false
+                },
+                {
+                  "text": "JDK",
+                  "correct": true
+                },
+                { "text": " JVM", "correct": false }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      }
+
+
+    ]
+  },
+  {
+    "Html": [
+      {
+        "Easy": [
+          {
+            "1": {
+              "question": "Which of the following colors contain equal amounts of RBG?",
+              "answer": [
+                {
+                  "text": "white",
+                  "correct": false
+                },
+                {
+                  "text": "gray",
+                  "correct": false
+                },
+                {
+                  "text": "black",
+                  "correct": false
+                },
+                { "text": "All of the above", "correct": true }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "normal": [
+          {
+            "1": {
+              "question": "What is the correct syntax to write an HTML comment?",
+              "answer": [
+                {
+                  "text": "<!--comment-->",
+                  "correct": false
+                },
+                {
+                  "text": "// comment",
+                  "correct": false
+                },
+                {
+                  "text": "# comment",
+                  "correct": false
+                },
+                { "text": "/* comment */", "correct": true }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "Hard": [
+          {
+            "1": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      }
+
+
+    ]
+  },
+  {
+    "Css": [
+      {
+        "Easy": [
+          {
+            "1": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "normal": [
+          {
+            "1": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "Hard": [
+          {
+            "1": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      }
+
+
+    ]
+  },
+  {
+    "Javascript": [
+      {
+        "Easy": [
+          {
+            "1": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "normal": [
+          {
+            "1": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "Hard": [
+          {
+            "1": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "2": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          },
+          {
+            "3": {
+              "question": "What is PHP?",
+              "answer": [
+                {
+                  "text": "PHP is an open-source programming language",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is used to develop dynamic and interactive websites",
+                  "correct": false
+                },
+                {
+                  "text": "PHP is a server-side scripting language",
+                  "correct": false
+                },
+                { "text": "All of the mentioned", "correct": true }
+              ]
+            }
+          }
+        ]
+      }
+
+
+    ]
+  }
+
+]
